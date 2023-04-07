@@ -15,11 +15,12 @@ public class TaskSix {
 
         for (int i = 1; i <= n ; i++) {
             int next = first + second;
-            System.out.println(first + " ");
+            System.out.printf(first + " ");
             first = second;
             second = next;
 
         }
+
         }
 
 }
