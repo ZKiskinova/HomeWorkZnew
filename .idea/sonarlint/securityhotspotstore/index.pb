@@ -14,3 +14,11 @@ S
 #src/main/java/homeworkfive/Pet.java,b\5\b590380f717a04a486ae928d7e950412d713d9f8
 T
 $src/main/java/homeworkfive/Test.java,8\1\81921023d832365deef590f74a5fffa7f811e034
+^
+.src/main/java/org/example/MyFirstHomeWork.java,1\0\10027840c0f8ff8a73a207980daeacfe1225efe6
+S
+#src/main/java/fouth/TaskFourth.java,c\a\ca8b755b97f86328fe7781312e8913b7ca60a6b4
+R
+"src/main/java/fouth/Taskthree.java,b\a\bad5bfed9ca7ea7eda24b3a75e87728d94c8ab37
+[
++src/main/java/fouth/TaskFirstAndSecond.java,0\b\0b9269ec4a48872feeb812a21c0ce70c95f6a4ef
