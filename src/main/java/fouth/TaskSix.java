@@ -1,27 +1,27 @@
 package fouth;
 
+import java.util.Scanner;
+
 public class TaskSix {
     public static void main(String[] args) {
+        int n = 0;
+        int sum = 0;
 
-        int[] Fibonaci = new int[20];
-        int x = 450;
+        System.out.println("Please, enter how many numbers of Fibonacci you want to print:");
+        Scanner sc = new Scanner(System.in);
+        n = sc.nextInt();
         int first = 0;
         int second = 1;
-        int next = first + second;
-        int sum = 0;
-        int i = 0;
-        int n = 5;
 
-        while (first <=450 && i<=n){
-            Fibonaci[i] =
-            next = first + second;
+        for (int i = 1; i <= n ; i++) {
+            int next = first + second;
+            System.out.println(first + " ");
             first = second;
             second = next;
-            sum = (sum + Fibonaci[i]);
-            System.out.printf("The sum is : %s", sum);
+
         }
         }
 
-    }
+}
 
 
