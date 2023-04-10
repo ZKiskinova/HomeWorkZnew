@@ -24,12 +24,7 @@ public class TaskSix {
         if (n == 1 || n == 0) {
             return n;
         }
-        for (int i = 1; i <=n ; i++) {
-            first = second;
-            second = next;
-            int next = first + second;
-
-        }
+        for (int i = 1; i <=n ; i++) {        }
         return sumFibonacci(n-1) + sumFibonacci(n-2);
 
     }
