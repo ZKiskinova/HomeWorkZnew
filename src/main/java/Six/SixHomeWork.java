@@ -12,24 +12,20 @@ public class SixHomeWork {
         System.out.println("Please fill up your password:");
         password = input.nextLine();
 
-            if ((password.length() < 8) ||(password.length() > 8))
-                System.out.println("Password have to be 8 charapters");
+        if (password.length() < 8) {
+            System.out.println("Password have to be 8 symbols");
+        }
 
-            else;
-            if (!(password.contains("!")) || !(password.contains(".")) || !(password.contains("?")))
-                System.out.println("Password have to have one of those symbols: !, . , ?");
+        if (!((password.contains("!")) || (password.contains(".")) || (password.contains("?")))) {
+            System.out.println("Password have to have one of those symbols: !, . , ?");
+        }
 
-            else;
-            if(!(password.contains("([A-Z])")))
-                System.out.println("Password have to have one alphabetik");
+        if ((password.matches("[^(?=.*[0-9])(?=.*[a-z])(?=.*[A-Z])(?=.*[@#$%^&+=])(?=\\S+$).{8,}$]"))) {
+            System.out.println("Password have to have  alphabetik");
+        }
 
-            else;
-            if(!(password.contains("([0-9])")))
-                System.out.println("Password have to have one numbers");
-
-            else;
-        System.out.println("Your password was acceptable!");
-            }
+        System.out.println("I am happy");
+    }
 
 }
 

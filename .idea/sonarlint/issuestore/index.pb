@@ -20,3 +20,7 @@ R
 "src/main/java/fouth/Taskthree.java,b\a\bad5bfed9ca7ea7eda24b3a75e87728d94c8ab37
 [
 +src/main/java/fouth/TaskFirstAndSecond.java,0\b\0b9269ec4a48872feeb812a21c0ce70c95f6a4ef
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+P
+ src/main/java/fouth/TaskSix.java,4\3\436cd30f595b4b1aca2847443b78dba2f643403e
