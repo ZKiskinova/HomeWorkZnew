@@ -1,0 +1,10 @@
+
+Z
+java:S1854"=Remove this useless assignment to local variable "userHobby".(α€γ8η¨‰γμ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(£ηεϊ8λ¨‰γμ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(κω¨όÿÿÿÿ8υ¨‰γμ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(³™•—ÿÿÿÿÿ8ψ¨‰γμ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(°Ο άόÿÿÿÿ8ϊ¨‰γμ0
+K
+java:S1481".Remove this unused "userHobby" local variable.(α€γ8ϋ¨‰γμ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ζδ‡8ό¨‰γμ0

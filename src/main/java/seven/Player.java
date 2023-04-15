@@ -7,15 +7,7 @@ public class Player {
     private int dribble;
     private int passing;
     private int shooting;
-    private int stats = (endurance+sprint+dribble+passing+shooting)/5;
 
-    public int getStats() {
-        return stats;
-    }
-
-    public void setStats(int stats) {
-        this.stats = (endurance+sprint+dribble+passing+shooting)/5 ;
-    }
 
     public String getName() {
         return name;

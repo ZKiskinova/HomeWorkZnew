@@ -1,0 +1,8 @@
+
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(«ñ‰ûÿÿÿÿÿ8ÍÖÖ÷0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(‚Îá8ÏÖÖ÷0
+W
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(õ²*8ÔÖÖ÷0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Îá—¾8ÖÖÖ÷0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¡ªşÆıÿÿÿÿ8ØÖÖ÷0
