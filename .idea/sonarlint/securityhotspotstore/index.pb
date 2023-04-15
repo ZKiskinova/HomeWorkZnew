@@ -20,3 +20,13 @@ P
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 S
 #src/main/java/homeworkfive/Cat.java,2\9\290970551e8f6c5e6d14bae0bb6b95c0869d5c5d
+T
+$src/main/java/homeworkfive/Test.java,8\1\81921023d832365deef590f74a5fffa7f811e034
+S
+#src/main/java/homeworkfive/Pet.java,b\5\b590380f717a04a486ae928d7e950412d713d9f8
+R
+"src/main/java/six/SixHomeWork.java,c\a\ca9812e5659eb4ff2ef7fc34a30fbbafe4dde274
+T
+$src/main/java/eight/randomEight.java,6\5\65433a422644f7a57936d6c44613bc0541baed5a
+N
+src/main/java/eight/eight.java,7\b\7b28fdf915180ee135449a3b489249c61bea033e
